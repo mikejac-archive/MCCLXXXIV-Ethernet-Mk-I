@@ -2,7 +2,7 @@ MCCLXXXIV Ethernet Mk I
 =========
 If I could, I think I would call this board "Arduino Ethernet+". But the name "Arduino" is protected, so no go for that. MCCLXXXIV is roman numbers for "1284".
 
-#Features
+###Features
 - Atmel atmega1284p (128KB Flash, 32kB RAM, clockspeed is 20MHz).
 - Wiznet W5200 Ethernet Controller (10/100Mbps). Interrupt from W5200 to atmega1284p is jumper selectable.
 - RS485 Driver. Can be connected/disconnected from the UART pins of the atmega1284 by jumpers.
@@ -16,5 +16,5 @@ If I could, I think I would call this board "Arduino Ethernet+". But the name "A
 
 Schematic and PCB capture was made with DipTrace (www.diptrace.com). It has more than 300 pins, so the free version of DipTrace cannot be used to modify the design.
 
-07NOV2014
+07NOV2014:
 I'll publish the relevant files here when I have placed an order for production and the manufacturer has validated the layout.
