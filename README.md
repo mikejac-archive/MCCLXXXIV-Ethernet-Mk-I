@@ -16,6 +16,11 @@ If I could, I think I would call this board "Arduino Ethernet+". But the name "A
 
 Schematic and PCB capture was made with DipTrace (www.diptrace.com). It has more than 300 pins, so the free version of DipTrace cannot be used to modify the design.
 
+Although it's Arduino Ethernet compatible, my own focus will be to run FreeRTOS on it. I will however give it a go at getting it to work with the Arduino IDE, but it's not a high priority for me.
+
 =========
 07NOV2014:
 I'll publish the relevant files here when I have placed an order for production and the manufacturer has validated the layout.
+
+=========
+Michael Jacobsen
