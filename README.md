@@ -2,7 +2,7 @@ MCCLXXXIV Ethernet Mk I
 =========
 If I could, I think I would call this board "Arduino Ethernet+". But the name "Arduino" is protected, so no go for that. MCCLXXXIV is roman numbers for "1284".
 
-Features
+#Features
 - Atmel atmega1284p (128KB Flash, 32kB RAM, clockspeed is 20MHz).
 - Wiznet W5200 Ethernet Controller (10/100Mbps). Interrupt from W5200 to atmega1284p is jumper selectable.
 - RS485 Driver. Can be connected/disconnected from the UART pins of the atmega1284 by jumpers.
@@ -12,4 +12,9 @@ Features
 - The board has headers that are compatible with regular Arduino shields.
 - Board is 100mm by 80mm. There are M4 holes at each corner as well as a M4 hole in the middle.
 
-Note: This board has _no_ USB on it and has to be programmed via the ICSP header with an appropiate programmer.
+**Note**: This board has _no_ USB on it and has to be programmed via the ICSP header with an appropiate programmer.
+
+Schematic and PCB capture was made with DipTrace (www.diptrace.com). It has more than 300 pins, so the free version of DipTrace cannot be used to modify the design.
+
+07NOV2014
+I'll publish the relevant files here when I have placed an order for production and the manufacturer has validated the layout.
