@@ -15,6 +15,7 @@ If I could, I think I would call this board "Arduino Ethernet+". But the name "A
 **Note**: This board has _no_ USB on it and has to be programmed via the ICSP header with an appropiate programmer.
 
 Schematic and PCB capture was made with DipTrace (www.diptrace.com). It has more than 300 pins, so the free version of DipTrace cannot be used to modify the design.
+
 =========
 07NOV2014:
 I'll publish the relevant files here when I have placed an order for production and the manufacturer has validated the layout.
