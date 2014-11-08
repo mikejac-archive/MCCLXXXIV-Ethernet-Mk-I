@@ -22,5 +22,8 @@ Although it's Arduino Ethernet compatible, my own focus will be to run FreeRTOS 
 07NOV2014:
 I'll publish the relevant files here when I have placed an order for production and the manufacturer has validated the layout.
 
+07NOV2014 later:
+Placed order at dirtypcbs.com.
+
 =========
 Michael Jacobsen
