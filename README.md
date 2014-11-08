@@ -3,7 +3,7 @@ MCCLXXXIV Ethernet Mk I
 If I could, I think I would call this board "Arduino Ethernet+". But the name "Arduino" is protected, so no go for that. MCCLXXXIV is roman numbers for "1284". Maybe think of it as a grown-up Arduino Ethernet :-)
 
 ###Features
-- Atmel atmega1284p (128KB Flash, 32kB RAM, clockspeed is 20MHz).
+- Atmel atmega1284p (128KB Flash, 32KB RAM, clockspeed is 20MHz).
 - Wiznet W5200 Ethernet Controller (10/100Mbps). Interrupt from W5200 to atmega1284p is jumper selectable.
 - RS485 Driver. Can be connected/disconnected from the UART pins of the atmega1284 by jumpers.
 - RJ45 Ethernet Jack is Power-over-Ethernet (PoE) ready. The V+ and V- from the jack goes to a terminal block on the board.
