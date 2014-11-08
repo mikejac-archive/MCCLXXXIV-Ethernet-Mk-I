@@ -1,6 +1,6 @@
 MCCLXXXIV Ethernet Mk I
 =========
-If I could, I think I would call this board "Arduino Ethernet+". But the name "Arduino" is protected, so no go for that. MCCLXXXIV is roman numbers for "1284".
+If I could, I think I would call this board "Arduino Ethernet+". But the name "Arduino" is protected, so no go for that. MCCLXXXIV is roman numbers for "1284". Maybe think of it as grown-up Arduino Ethernet :-)
 
 ###Features
 - Atmel atmega1284p (128KB Flash, 32kB RAM, clockspeed is 20MHz).
